@@ -22,6 +22,8 @@ App is using Clarifia API.
 
 Sample photo URL you can test: https://www.telegraph.co.uk/multimedia/archive/03249/archetypal-female-_3249633c.jpg?imwidth=680
 
---- ![image](https://github.com/krzysiekk9/face-recognition-app/assets/107801980/c6dc7228-3976-4f63-98d8-31911130489d)
+--- 
+
+![image](https://github.com/krzysiekk9/face-recognition-app/assets/107801980/ab5d5224-d42a-47e6-a0ed-266ac40dd51c)
 
 
