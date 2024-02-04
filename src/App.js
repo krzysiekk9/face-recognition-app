@@ -68,7 +68,7 @@ class App extends Component {
   onButtonSubmit = () => {
     this.setState({ imageUrl: this.state.input });
 
-    const PAT = "e0bdb13bcdee4848acecca4ba1eba2b1";
+    const PAT = process.env.CLARIFAI_PAT;
     const USER_ID = "mx5n3b17l4md";
     const APP_ID = "first";
     const MODEL_ID = "face-detection";
